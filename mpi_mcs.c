@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdint.h>
-#include "mpibarrier.h"
+#include <mpi_barrier.h>
 #include <stdio.h>
 #include <string.h>
 

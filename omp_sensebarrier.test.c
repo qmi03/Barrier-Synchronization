@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <omp.h>
 #include <sys/time.h>
-#include "openmpbarrier.h"
+#include "omp_barrier.h"
 
 static double threadstime[256];
 

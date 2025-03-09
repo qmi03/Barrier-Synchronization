@@ -1,0 +1,6 @@
+# .clangd configuration aligned with P1204R0 Canonical Project Structure
+CompileFlags:
+  # Add common flags that support the canonical structure approach
+  Add:
+    - "-I/Users/qmi/repos/uni/thesis/refs/Barrier-Synchronization/"
+    - "-I/nix/store/pq19hrb2rgr6z15604cca386d39mlhd4-mpich-4.3.0/include"

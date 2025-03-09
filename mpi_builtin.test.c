@@ -3,7 +3,6 @@
 #include <stdbool.h>
 #include <mpi.h>
 #include <sys/time.h>
-#include <math.h>
 
 double timeduration(struct timeval t1, struct timeval t2)
 {

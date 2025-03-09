@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <omp.h>
 #include <sys/time.h>
-#include "openmpbarrier.h"
+#include "omp_barrier.h"
 
 static int iterations;
 static double threadstime[256];

@@ -1,7 +1,7 @@
 #include <omp.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include "openmpbarrier.h"
+#include <omp_barrier.h>
 #include <stdio.h>
 
 static int count;

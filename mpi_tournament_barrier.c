@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <mpi.h>
 #include <stdlib.h>
-#include <math.h>
 
 #define NUM_BARRIERS 10
 

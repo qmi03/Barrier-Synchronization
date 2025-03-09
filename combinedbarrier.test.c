@@ -4,7 +4,7 @@
 #include <mpi.h>
 #include <omp.h>
 #include <sys/time.h>
-#include "combinedbarrier.h"
+#include <combinedbarrier.h>
 
 static double threadstime[256];
 

@@ -1,5 +1,5 @@
-#include "mpibarrier.h"
-#include "openmpbarrier.h"
+#include <mpi_barrier.h>
+#include <omp_barrier.h>
 #include <stdio.h>
 #include <omp.h>
 
